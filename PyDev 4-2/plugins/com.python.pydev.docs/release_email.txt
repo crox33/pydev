@@ -1,0 +1,54 @@
+PyDev 4.4.0 Released
+
+Release Highlights:
+-------------------------------
+
+* Improved PyDev Package Explorer to give more information when all elements are filtered.
+
+* Code completion improvements: when parameter is typed in the docstring, assigning it to an instance gives proper code-completion results whe accessing the instance.
+
+* Fixed issues dealing with ansi colors in the interactive console.
+
+* When autopep8 is applied as the code formatting engine, the region selected is used to specify the lines for formatting.
+
+* Minor improvements in the debugger.
+
+
+What is PyDev?
+---------------------------
+
+PyDev is an open-source Python IDE on top of Eclipse for Python, Jython and IronPython development.
+
+It comes with goodies such as code completion, syntax highlighting, syntax analysis, code analysis, refactor, debug, interactive console, etc.
+
+Details on PyDev: http://pydev.org
+Details on its development: http://pydev.blogspot.com
+
+
+What is LiClipse?
+---------------------------
+
+LiClipse is a PyDev standalone with goodies such as support for Multiple cursors, theming, TextMate bundles and a number of other languages such as Django Templates, Jinja2, Kivy Language, Mako Templates, Html, Javascript, etc.
+
+It's also a commercial counterpart which helps supporting the development of PyDev.
+
+Details on LiClipse: http://www.liclipse.com/
+
+
+
+Cheers,
+
+--
+Fabio Zadrozny
+------------------------------------------------------
+Software Developer
+
+LiClipse
+http://www.liclipse.com
+
+PyDev - Python Development Environment for Eclipse
+http://pydev.org
+http://pydev.blogspot.com
+
+PyVmMonitor - Python Profiler
+http://www.pyvmmonitor.com/
