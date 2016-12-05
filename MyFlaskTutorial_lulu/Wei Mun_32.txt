@@ -1,0 +1,12 @@
+Name: Wei Mun
+Age: 32
+
+Do you like cupcakes?
+maybe
+
+Which fruit do you like best?
+pineapple
+
+How many eyes do you have?
+2
+
